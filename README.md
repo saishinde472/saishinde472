@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning Python, SQL, Django, Data Science, and Machine Learning.<br>🎯 Goals: o master advanced analytical techniques and drive innovative solutions in technology projects.<br>🎲 Fun fact: I enjoy solving complex puzzles and have a knack for finding creative solutions to challenging problems.</p>
+<p align="left">📚 I'm currently learning Python, SQL, Django, Data Science, and Machine Learning.<br>🎯 Goals: o master advanced analytical techniques and drive innovative solutions in technology projects.<br>🎲 Fun fact: I enjoy solving complex puzzles and have a knack for finding creative solutions to challenging problems.</p>
 
 ###
 
